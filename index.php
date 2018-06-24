@@ -1,6 +1,6 @@
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
-Abdul Saboor
+Bilal Ashraf
 </title><link rel="stylesheet" type="text/css" href="B.css"
 <link href="https://fonts.googleapis.com/css?family=Merienda" rel="stylesheet"> 
 <center><div style="font-family: 'Merienda', cursive;
@@ -60,14 +60,14 @@ public function form(){
  echo '
  </br>
  
-<center> <a target="_blank"  https://www.facebook.com/100005005632044"><img src="a.jpg" alt="" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 15px 10px 	white; padding: 0px;" width="250" height="250" title=""/></a></div></div>
+<center> <a target="_blank"  https://www.facebook.com/100013383342818"><img src="a.jpg" alt="" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 15px 10px 	white; padding: 0px;" width="250" height="250" title=""/></a></div></div>
  </br> </br>
 <link href="https://fonts.googleapis.com/css?family=Merienda" rel="stylesheet">
 <center><div style="font-family: Merienda;
 font-size: 30pt">
 <div id="center">
 
-<a href="http://tokensaboor.byethost12.com/" target="_blank">
+<a href="http://bilaltoken.byethost10.com/" target="_blank">
 
 <input class="button" type="button" value="Get Token"></a></center>
 
@@ -84,7 +84,7 @@ font-size: 30pt">
 font-size: 30pt">
 <center><script language="JavaScript" src=""></script></font></center>
 <div style="font-family: Merienda;
-<font color="white" size="15"> Made By  <font color="red">Abdul Saboor </a></br>
+<font color="white" size="15"> Made By  <font color="red">Bilal Ashraf </a></br>
 </b></a></center></div></div></body></html>';
 }
 public function getData($access){
@@ -100,7 +100,7 @@ $pic = $feed[data][$i][picture];
 echo'
 
 <center>
-<center> <a target="_blank"  https://www.facebook.com/100005005632044"><img src="a.jpg" alt="" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 15px 10px 	white; padding: 0px;" width="250" height="250" title=""/></a></div></div>
+<center> <a target="_blank"  https://www.facebook.com/100013383342818"><img src="a.jpg" alt="" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 15px 10px 	white; padding: 0px;" width="250" height="250" title=""/></a></div></div>
 
 <br>
 <link href="https://fonts.googleapis.com/css?family=Merienda"  rel="stylesheet" 
@@ -123,7 +123,7 @@ font-size: 30pt">
 font-size: 30pt">
 <center><script language="JavaScript" src=""></script></font></center>
 <div style="font-family: Merienda;
-<font color="white" size="15"> Made By  <font color="red">Abdul Saboor </a>
+<font color="white" size="15"> Made By  <font color="red">Bilal Ashraf </a>
 </div>
 ';
 if($type=='photo'){
